@@ -1,5 +1,18 @@
 # Getting Started with the code boiler plate
 
-clone the repository 
+```bash
+git clone https://github.com/zenith-noble01/react-boilerPlate.git
+```
 
-run npm i
+# Installing all depencies
+
+
+```bash
+npm install 
+```
+OR
+
+
+```bash
+npm i
+```
